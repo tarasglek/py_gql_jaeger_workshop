@@ -15,7 +15,8 @@ Last step needs to be adjusted to be something like:
 
 Stand up https://github.com/tarasglek/imdb-graphql
 
-Notes on how to start app in  [
+Notes on how to start app in https://github.com/tarasglek/imdb-graphql/tree/master/src/python
+
 ** TODO: @1mehal setup backend using hasura
 
 ## 4. Run jaeger docker
