@@ -11,6 +11,8 @@ Last step needs to be adjusted to be something like:
 
 `s32imdbpy.py --verbose datasets.imdbws.com postgresql://taras@localhost/taras`
 
+After loading the db, follow instructions in https://github.com/tarasglek/imdb-graphql/blob/master/src/postgres/README.md to enable search queries.
+
 ## 3. Docker for Graphql backend
 
 Stand up https://github.com/tarasglek/imdb-graphql
